@@ -2,13 +2,13 @@
 
 面向产品经理的 Codex Skill：读取业务规则和 PC HTML 原型，生成评审提纲，并注入可拖拽、可标注、可持续保存的原型评审助手。
 
-当前公开版本：`v1.1.3`
+当前公开版本：`v1.1.8`
 
 ## 下载
 
 请从 [Releases](https://github.com/liyangxu219318-bot/pc-html-review-assistant-release/releases/latest) 下载：
 
-- `pc-html-review-assistant-v1.1.3.zip`
+- `pc-html-review-assistant-v1.1.8.zip`
 - 对应的 `.sha256` 校验文件
 
 ## 安装
@@ -35,7 +35,7 @@
 PowerShell：
 
 ```powershell
-Get-FileHash .\pc-html-review-assistant-v1.1.3.zip -Algorithm SHA256
+Get-FileHash .\pc-html-review-assistant-v1.1.8.zip -Algorithm SHA256
 ```
 
 将结果与同名 `.sha256` 文件比对。
